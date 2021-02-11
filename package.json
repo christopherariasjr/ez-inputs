@@ -9,5 +9,9 @@
     "input"
   ],
   "author": "Christopher Arias",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christopherariasjr/easy-input.git"
+  }
 }
