@@ -1,0 +1,13 @@
+{
+  "name": "easy-input",
+  "version": "1.0.0",
+  "description": "Easy node.js inputs for your application",
+  "main": "src/index.js",
+  "keywords": [
+    "javascript",
+    "inputs",
+    "input"
+  ],
+  "author": "Christopher Arias",
+  "license": "MIT"
+}
