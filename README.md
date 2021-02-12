@@ -6,6 +6,8 @@ __Easy__ terminal inputs for an __Easy__ time.
 ---
 ```
 npm install easy-inputs
+
+yarn add easy-inputs
 ```
 
 ### How to use
