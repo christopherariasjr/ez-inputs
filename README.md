@@ -1,5 +1,22 @@
-# easy-input
+## easy-inputs v1.0.0
+---
+__Easy__ inputs for an __Easy__ time.
 
-Easy inputs for your next project. 
+### Installation
+---
+```
+npm install easy-inputs
+```
 
-# Installation
+### How to use
+---
+
+```
+const ez = require('easy-inputs');
+
+//String prompt
+var name = ez.text('What is your name?: );
+
+//Number prompt
+var name = ez.number('What is your age?: );
+```

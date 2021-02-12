@@ -1,5 +1,5 @@
 {
-  "name": "easy-input",
+  "name": "easy-inputs",
   "version": "1.0.0",
   "description": "Easy node.js inputs for your application",
   "main": "src/index.js",
@@ -12,6 +12,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/christopherariasjr/easy-input.git"
+    "url": "git+https://github.com/christopherariasjr/easy-inputs.git"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "funding": {
+    "type" : "individual",
+    "url" : "paypal.me/cjariasjr"
   }
 }
