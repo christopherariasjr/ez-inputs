@@ -1,12 +1,17 @@
 {
   "name": "easy-inputs",
   "version": "1.0.0",
-  "description": "Easy node.js inputs for your application",
+  "description": "Easy node.js inputs for your terminal application.",
   "main": "src/index.js",
   "keywords": [
     "javascript",
     "inputs",
-    "input"
+    "input",
+    "terminal",
+    "node.js",
+    "easy",
+    "easy-inputs",
+    "easy-input"
   ],
   "author": "Christopher Arias",
   "license": "MIT",
