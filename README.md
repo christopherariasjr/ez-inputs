@@ -1,6 +1,6 @@
 ## easy-inputs v1.0.0
 ---
-__Easy__ inputs for an __Easy__ time.
+__Easy__ terminal inputs for an __Easy__ time.
 
 ### Installation
 ---
