@@ -16,15 +16,20 @@ yarn add easy-inputs
 ```
 const ez = require('easy-inputs');
 
-//String prompt
+//Text prompt
+//Text prompt returns a "String" data type.
+
 var name = ez.text('What is your name?: );
 
 //Number prompt
+//Number prompt returns a Number data type
+
 var name = ez.number('What is your age?: );
 
-//Question propmt allows you to get a yes or no answer from the user
+//Question propmt allows you to get a closed-ended question from the user
 //The array needs to be two objects and have a name and value element
 //An optional "default" element is applicable to allow the user to continue with a default answer
+
 var dog = ez.question('Are you a dog? [y/N]: ', [
     {
         name: 'y',
