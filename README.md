@@ -1,20 +1,20 @@
-## easy-inputs v1.0.0
+## ez-inputs v1.0.0
 ---
-__Easy__ terminal inputs for an __Easy__ time.
+__Easy__ terminal inputs for an __Easier__ time.
 
 ### Installation
 ---
 ```
-npm install easy-inputs
+npm install ez-inputs
 
-yarn add easy-inputs
+yarn add ez-inputs
 ```
 
 ### How to use
 ---
 
 ```
-const ez = require('easy-inputs');
+const ez = require('ez-inputs');
 
 //Text prompt
 //Text prompt returns a "String" data type.
