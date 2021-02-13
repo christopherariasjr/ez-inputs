@@ -1,13 +1,13 @@
-## easy-inputs v1.0.0
+## eazy-inputs v1.0.0
 ---
-__Easy__ terminal inputs for an __Easy__ time.
+__Eazy__ terminal inputs for an __Eazy__ time.
 
 ### Installation
 ---
 ```
-npm install easy-inputs
+npm install eazy-inputs
 
-yarn add easy-inputs
+yarn add eazy-inputs
 ```
 
 ### How to use

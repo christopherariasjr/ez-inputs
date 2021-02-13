@@ -1,5 +1,5 @@
 {
-  "name": "easy-inputs",
+  "name": "eazy-inputs",
   "version": "1.0.0",
   "description": "Easy node.js inputs for your terminal application.",
   "main": "src/index.js",
@@ -11,15 +11,18 @@
     "node.js",
     "easy",
     "easy-inputs",
-    "easy-input"
+    "easy-input",
+    "eazy",
+    "eazy-inputs",
+    "eazy-input"
   ],
   "author": "Christopher Arias",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christopherariasjr/easy-inputs.git"
+    "url": "git+https://github.com/christopherariasjr/eazy-inputs.git"
   },
-  "bugs": "https://github.com/christopherariasjr/easy-inputs/issues",
+  "bugs": "https://github.com/christopherariasjr/eazy-inputs/issues",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   },
